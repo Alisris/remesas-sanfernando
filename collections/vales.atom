@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://remesas.sanfernando.pe/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://remesas.sanfernando.pe/collections/vales.atom"/>
+  <title>San Fernando PE | Remesas</title>
+  <updated>2024-10-17T16:07:05-04:00</updated>
+  <author>
+    <name>San Fernando PE | Remesas</name>
+  </author>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761129751</id>
+    <published>2024-10-17T16:07:05-04:00</published>
+    <updated>2024-10-17T16:07:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-pechuga-3-5-kg"/>
+    <title>Vale Pechuga 3.5 Kg.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/ValePechuga3.5.jpg?v=1729273764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            17.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761129751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.23</s:price>
+      <s:sku>138483F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761096983</id>
+    <published>2024-10-17T16:07:04-04:00</published>
+    <updated>2024-10-17T16:07:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-12kg"/>
+    <title>Vale de Pavo Físico 12Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede12.png?v=1729273698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            47.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761096983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.04</s:price>
+      <s:sku>127581F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761064215</id>
+    <published>2024-10-17T16:07:03-04:00</published>
+    <updated>2024-10-17T16:07:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-11kg"/>
+    <title>Vale de Pavo Físico 11Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede11.png?v=1729273662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            43.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761064215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.12</s:price>
+      <s:sku>127580F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761031447</id>
+    <published>2024-10-17T16:07:02-04:00</published>
+    <updated>2024-10-17T16:07:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-10kg"/>
+    <title>Vale de Pavo Físico 10Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede10.png?v=1729273577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761031447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.55</s:price>
+      <s:sku>127579F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

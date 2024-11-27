@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://remesas.sanfernando.pe/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://remesas.sanfernando.pe/collections/jueves-de-pavita.atom"/>
+  <title>San Fernando PE | Remesas</title>
+  <updated>2024-10-25T18:09:25-04:00</updated>
+  <author>
+    <name>San Fernando PE | Remesas</name>
+  </author>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9715836518679</id>
+    <published>2024-10-25T18:09:25-04:00</published>
+    <updated>2024-10-25T18:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/aderezo-de-pavo-400-gr"/>
+    <title>Aderezo de pavo 400 gr</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Aderezo.jpg?v=1729603004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Descubre la deliciosa combinación de sabores en nuestro Aderezo de pavo de 400 gr. Elaborado con los más frescos ingredientes, es perfecto para darle un toque especial a tus comidas. San Fernando te ofrece una amplia variedad de productos de alta calidad, desde pollo y pavo hasta embutidos y congelados. ¡Haz tu compra en solo un clic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9715836518679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>130606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761096983</id>
+    <published>2024-10-17T16:07:04-04:00</published>
+    <updated>2024-10-17T16:07:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-12kg"/>
+    <title>Vale de Pavo Físico 12Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede12.png?v=1729273698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            47.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761096983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.04</s:price>
+      <s:sku>127581F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761064215</id>
+    <published>2024-10-17T16:07:03-04:00</published>
+    <updated>2024-10-17T16:07:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-11kg"/>
+    <title>Vale de Pavo Físico 11Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede11.png?v=1729273662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            43.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761064215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.12</s:price>
+      <s:sku>127580F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761031447</id>
+    <published>2024-10-17T16:07:02-04:00</published>
+    <updated>2024-10-17T16:07:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-10kg"/>
+    <title>Vale de Pavo Físico 10Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede10.png?v=1729273577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761031447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.55</s:price>
+      <s:sku>127579F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431260951</id>
+    <published>2024-10-09T20:02:47-04:00</published>
+    <updated>2024-10-09T20:02:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pavo-con-menudencia-congelado-rango-de-9-a-10-kg"/>
+    <title>Pavo con menudencia congelado (Rango de 9 a 10 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PavoEntero_d80e6c6a-f8a4-4407-8101-5a6687859cbc.jpg?v=1729273407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pavo con menudencia congelado (Rango de 9 a 10 Kg): Rango de 9 a 10 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pavo con menudencia congelado (rango de 9 a 10 kg) se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El pavo con menudencia congelado (rango de 9 a 10 kg) es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorab...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431260951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.28</s:price>
+      <s:sku>127569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431195415</id>
+    <published>2024-10-09T20:02:47-04:00</published>
+    <updated>2024-10-09T20:02:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pavo-con-menudencia-congelado-rango-de-8-a-9-kg"/>
+    <title>Pavo con menudencia congelado (Rango de 8 a 9 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PavoEntero.jpg?v=1729273310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            35.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pavo con menudencia congelado (Rango de 8 a 9 Kg): Rango de 8 a 9 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pavo con menudencia congelado (rango de 8 a 9 kg) se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única. El pavo con menudencia congelado (rango de 8 a 9 kg) es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorables....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431195415</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.15</s:price>
+      <s:sku>127568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431162647</id>
+    <published>2024-10-09T20:02:46-04:00</published>
+    <updated>2024-10-09T20:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pavo-con-menudencia-congelado-rango-de-7-a-8-kg"/>
+    <title>Pavo con menudencia congelado (Rango de 7 a 8 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Pavo-menudencia-congelado.jpg?v=1728519157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            31.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pavo con menudencia congelado (Rango de 7 a 8 Kg): Rango de 7 a 8 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pavo con menudencia congelado (rango de 7 a 8 kg) se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única. El pavo con menudencia congelado (rango de 7 a 8 kg) es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorables....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431162647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.01</s:price>
+      <s:sku>127567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

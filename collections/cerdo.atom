@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://remesas.sanfernando.pe/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://remesas.sanfernando.pe/collections/cerdo.atom"/>
+  <title>San Fernando PE | Remesas</title>
+  <updated>2024-10-17T16:07:01-04:00</updated>
+  <author>
+    <name>San Fernando PE | Remesas</name>
+  </author>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711760998679</id>
+    <published>2024-10-17T16:07:01-04:00</published>
+    <updated>2024-10-17T16:07:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pierna-de-cerdo-congelado-9-a-10-kg"/>
+    <title>Pierna de Cerdo Congelado (9 a 10 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PiernadeCerdo.jpg?v=1729273448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            64.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711760998679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.05</s:price>
+      <s:sku>864</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431883543</id>
+    <published>2024-10-09T20:02:58-04:00</published>
+    <updated>2024-10-09T20:02:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/panceta-de-cerdo-con-piel-y-sin-hueso"/>
+    <title>Panceta de cerdo con piel y sin hueso</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/panceta-cp-sh.jpg?v=1728519117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Panceta de cerdo con piel y sin hueso: Cortes de carne de cerdo con piel y sin hueso Rango de 1.3kg a 2.6 kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El panceta de cerdo con piel y sin hueso se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El panceta de cerdo con piel y sin hueso es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar com...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431883543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.80</s:price>
+      <s:sku>130272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431621399</id>
+    <published>2024-10-09T20:02:53-04:00</published>
+    <updated>2024-10-09T20:02:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/panceta-de-cerdo-con-piel-y-con-hueso"/>
+    <title>Panceta de cerdo con piel y con hueso</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/panceta-cp-ch.jpg?v=1728519104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            17.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Panceta de cerdo con piel y con hueso: Rango de 1.3kg a 2.6 kg Cortes de carne de cerdo con presencia de piel y hueso.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El panceta de cerdo con piel y con hueso se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El panceta de cerdo con piel y con hueso es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para pr...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431621399</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.87</s:price>
+      <s:sku>130268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431490327</id>
+    <published>2024-10-09T20:02:51-04:00</published>
+    <updated>2024-10-09T20:02:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/enrollado-delizia-de-cerdo-x-1-30-kg"/>
+    <title>Enrollado delizia de cerdo x 1.30 Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/enrollado-deliz-cerdo-1.3kg.png?v=1728519056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enrollado delizia de cerdo x 1.30 Kg: Enrollado delizia de cerdo relleno de tocino y guindón congelado x 1.30 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El enrollado delizia de cerdo x 1.30 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El enrollado delizia de cerdo x 1.30 kg es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar c...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431490327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.27</s:price>
+      <s:sku>129003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

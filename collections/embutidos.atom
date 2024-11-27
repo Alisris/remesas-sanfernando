@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://remesas.sanfernando.pe/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://remesas.sanfernando.pe/collections/embutidos.atom"/>
+  <title>San Fernando PE | Remesas</title>
+  <updated>2024-10-09T20:02:56-04:00</updated>
+  <author>
+    <name>San Fernando PE | Remesas</name>
+  </author>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431785239</id>
+    <published>2024-10-09T20:02:56-04:00</published>
+    <updated>2024-10-09T20:02:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/chorizo-parrillero-x-400-gr"/>
+    <title>Chorizo Parrillero x 400 Gr.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/chorizo-parrillero-400gr_77768e58-7406-4099-ac79-3b8e2854f122.png?v=1729865771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            4.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chorizo Parrillero x 400 Gr.: Chorizo crudo a base de carne de cerdo que ha sido sazonado con notas aliáceas y especias como pimienta comino y nuez moscada.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El chorizo parrillero x 400 gr. se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El chorizo parrillero x 400 gr. es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una exce...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431785239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.51</s:price>
+      <s:sku>126788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431752471</id>
+    <published>2024-10-09T20:02:55-04:00</published>
+    <updated>2024-10-09T20:02:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/chorizo-finas-hierbas-x-400-gr"/>
+    <title>Chorizo Finas Hierbas x 400 Gr.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/chorizo-finas-hierbas-400gr_0184d886-e3ed-4ad0-a813-4ecb4b6df6a9.png?v=1729865657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            4.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chorizo Finas Hierbas x 400 Gr.: Chorizo crudo a base de carne de cerdo que ha sido sazonado con especias y hierbas.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El chorizo finas hierbas x 400 gr. se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El chorizo finas hierbas x 400 gr. es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431752471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.67</s:price>
+      <s:sku>126789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431686935</id>
+    <published>2024-10-09T20:02:54-04:00</published>
+    <updated>2024-10-09T20:02:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/chorizo-parrillero-brasa-x-400-gr"/>
+    <title>Chorizo Parrillero Brasa x 400 Gr.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/chorizo-parrillero-400gr.png?v=1729864065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            4.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chorizo Parrillero Brasa x 400 Gr.: Chorizo crudo a base de carne de pollo y grasa de cerdo que ha sido ahumado y sazonado.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El chorizo parrillero brasa x 400 gr. se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El chorizo parrillero brasa x 400 gr. es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para pre...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431686935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.67</s:price>
+      <s:sku>141530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

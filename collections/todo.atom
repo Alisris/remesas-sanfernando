@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://remesas.sanfernando.pe/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://remesas.sanfernando.pe/collections/todo.atom"/>
+  <title>San Fernando PE | Remesas</title>
+  <updated>2024-10-25T18:09:25-04:00</updated>
+  <author>
+    <name>San Fernando PE | Remesas</name>
+  </author>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9715836518679</id>
+    <published>2024-10-25T18:09:25-04:00</published>
+    <updated>2024-10-25T18:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/aderezo-de-pavo-400-gr"/>
+    <title>Aderezo de pavo 400 gr</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Aderezo.jpg?v=1729603004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Descubre la deliciosa combinación de sabores en nuestro Aderezo de pavo de 400 gr. Elaborado con los más frescos ingredientes, es perfecto para darle un toque especial a tus comidas. San Fernando te ofrece una amplia variedad de productos de alta calidad, desde pollo y pavo hasta embutidos y congelados. ¡Haz tu compra en solo un clic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9715836518679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>130606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9712939565335</id>
+    <published>2024-10-18T12:53:47-04:00</published>
+    <updated>2024-10-18T12:53:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-4"/>
+    <title>Pack Año Nuevo</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKFESTEJO-1080X1080PX-sinnombre.png?v=1729270654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            41.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Envía el sabor de las fiestas a tu familia en Perú con el Pack Festejo de San Fernando. Sorpréndelos este Año Nuevo con una deliciosa selección de productos, como nuestros chorizos parrilleros y enrollados. ¡El regalo perfecto para que disfruten una celebración inolvidable!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9712939565335</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.57</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9712904732951</id>
+    <published>2024-10-18T11:52:06-04:00</published>
+    <updated>2024-10-18T11:52:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-3"/>
+    <title>Pack Familia</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKUNION-1080X1080PX-sinnombre.png?v=1729270622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            105.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Envía el regalo perfecto para una Navidad inolvidable con el Pack Familia de San Fernando. Sorprende a tu familia en Perú con un pavo entero, un enrollado americano y una deliciosa pierna de cerdo. ¡Todo lo que necesitan para disfrutar de una cena navideña llena de sabor y momentos especiales!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9712904732951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.04</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9712903586071</id>
+    <published>2024-10-18T11:49:06-04:00</published>
+    <updated>2024-10-18T11:49:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-2"/>
+    <title>Pack Tradición</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKTRADICION-1080X1080PX-sinnombre.png?v=1729270541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            57.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haz que la Navidad de tu familia en Perú sea especial con el Pack Tradición de San Fernando. Envía un pavo entero acompañado de 2 enrollados para una cena navideña llena de sabor y tradición. ¡El detalle perfecto para compartir en estas fiestas!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9712903586071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.84</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711908651287</id>
+    <published>2024-10-17T20:42:07-04:00</published>
+    <updated>2024-10-17T20:42:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-1"/>
+    <title>Pack Unión</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKFAMILIA-1080X1080PX-SINNOMBRE.png?v=1729270586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            35.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haz que tu familia en Perú disfrute de una Navidad llena de sabor con el Pack Unión de San Fernando. Envía un delicioso enrollado con una panceta y un pollo sazón brasa, perfecto para una celebración especial. ¡Sorpréndelos con una cena que une corazones!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711908651287</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761129751</id>
+    <published>2024-10-17T16:07:05-04:00</published>
+    <updated>2024-10-17T16:07:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-pechuga-3-5-kg"/>
+    <title>Vale Pechuga 3.5 Kg.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/ValePechuga3.5.jpg?v=1729273764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            17.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761129751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.23</s:price>
+      <s:sku>138483F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761096983</id>
+    <published>2024-10-17T16:07:04-04:00</published>
+    <updated>2024-10-17T16:07:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-12kg"/>
+    <title>Vale de Pavo Físico 12Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede12.png?v=1729273698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            47.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761096983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.04</s:price>
+      <s:sku>127581F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761064215</id>
+    <published>2024-10-17T16:07:03-04:00</published>
+    <updated>2024-10-17T16:07:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-11kg"/>
+    <title>Vale de Pavo Físico 11Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede11.png?v=1729273662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            43.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761064215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.12</s:price>
+      <s:sku>127580F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711761031447</id>
+    <published>2024-10-17T16:07:02-04:00</published>
+    <updated>2024-10-17T16:07:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/vale-de-pavo-fisico-10kg"/>
+    <title>Vale de Pavo Físico 10Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Valede10.png?v=1729273577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711761031447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.55</s:price>
+      <s:sku>127579F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711760998679</id>
+    <published>2024-10-17T16:07:01-04:00</published>
+    <updated>2024-10-17T16:07:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pierna-de-cerdo-congelado-9-a-10-kg"/>
+    <title>Pierna de Cerdo Congelado (9 a 10 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PiernadeCerdo.jpg?v=1729273448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            64.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711760998679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.05</s:price>
+      <s:sku>864</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431883543</id>
+    <published>2024-10-09T20:02:58-04:00</published>
+    <updated>2024-10-09T20:02:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/panceta-de-cerdo-con-piel-y-sin-hueso"/>
+    <title>Panceta de cerdo con piel y sin hueso</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/panceta-cp-sh.jpg?v=1728519117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Panceta de cerdo con piel y sin hueso: Cortes de carne de cerdo con piel y sin hueso Rango de 1.3kg a 2.6 kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El panceta de cerdo con piel y sin hueso se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El panceta de cerdo con piel y sin hueso es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar com...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431883543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.80</s:price>
+      <s:sku>130272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431850775</id>
+    <published>2024-10-09T20:02:57-04:00</published>
+    <updated>2024-10-09T20:02:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/costilla-natural-st-louis"/>
+    <title>Costilla Natural St Louis</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/costillas-natural-1.5kg.jpg?v=1728518850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Costilla Natural St Louis: Presentación de 1.5 kg aprox.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El costilla natural st louis se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El costilla natural st louis es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorables. Nuestros expertos seleccionan cuidadosamente cada corte par...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431850775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>130004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431785239</id>
+    <published>2024-10-09T20:02:56-04:00</published>
+    <updated>2024-10-09T20:02:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/chorizo-parrillero-x-400-gr"/>
+    <title>Chorizo Parrillero x 400 Gr.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/chorizo-parrillero-400gr_77768e58-7406-4099-ac79-3b8e2854f122.png?v=1729865771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            4.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chorizo Parrillero x 400 Gr.: Chorizo crudo a base de carne de cerdo que ha sido sazonado con notas aliáceas y especias como pimienta comino y nuez moscada.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El chorizo parrillero x 400 gr. se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El chorizo parrillero x 400 gr. es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una exce...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431785239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.51</s:price>
+      <s:sku>126788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431752471</id>
+    <published>2024-10-09T20:02:55-04:00</published>
+    <updated>2024-10-09T20:02:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/chorizo-finas-hierbas-x-400-gr"/>
+    <title>Chorizo Finas Hierbas x 400 Gr.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/chorizo-finas-hierbas-400gr_0184d886-e3ed-4ad0-a813-4ecb4b6df6a9.png?v=1729865657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            4.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chorizo Finas Hierbas x 400 Gr.: Chorizo crudo a base de carne de cerdo que ha sido sazonado con especias y hierbas.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El chorizo finas hierbas x 400 gr. se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El chorizo finas hierbas x 400 gr. es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431752471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.67</s:price>
+      <s:sku>126789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431686935</id>
+    <published>2024-10-09T20:02:54-04:00</published>
+    <updated>2024-10-09T20:02:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/chorizo-parrillero-brasa-x-400-gr"/>
+    <title>Chorizo Parrillero Brasa x 400 Gr.</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/chorizo-parrillero-400gr.png?v=1729864065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            4.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chorizo Parrillero Brasa x 400 Gr.: Chorizo crudo a base de carne de pollo y grasa de cerdo que ha sido ahumado y sazonado.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El chorizo parrillero brasa x 400 gr. se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El chorizo parrillero brasa x 400 gr. es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para pre...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431686935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.67</s:price>
+      <s:sku>141530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431621399</id>
+    <published>2024-10-09T20:02:53-04:00</published>
+    <updated>2024-10-09T20:02:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/panceta-de-cerdo-con-piel-y-con-hueso"/>
+    <title>Panceta de cerdo con piel y con hueso</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/panceta-cp-ch.jpg?v=1728519104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            17.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Panceta de cerdo con piel y con hueso: Rango de 1.3kg a 2.6 kg Cortes de carne de cerdo con presencia de piel y hueso.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El panceta de cerdo con piel y con hueso se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El panceta de cerdo con piel y con hueso es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para pr...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431621399</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.87</s:price>
+      <s:sku>130268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431588631</id>
+    <published>2024-10-09T20:02:52-04:00</published>
+    <updated>2024-10-09T20:02:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pollo-sazon-brasa-x-1-4-kg"/>
+    <title>Pollo sazón brasa x 1.4 kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/dummybrasa-original.jpg?v=1729274344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            5.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pollo sazón brasa x 1.4 kg: Pollo entero marinado y macerado empacado en bolsa al vacío y refrigerado.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pollo sazón brasa x 1.4 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única. El pollo sazón brasa x 1.4 kg es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorables. Nuestros ex...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431588631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.31</s:price>
+      <s:sku>134389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431523095</id>
+    <published>2024-10-09T20:02:52-04:00</published>
+    <updated>2024-10-09T20:02:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/enrollado-delizia-de-pavita-x-1-30-kg"/>
+    <title>Enrollado delizia de pavita x 1.30 Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/enrollado-deliz-pavita_e15afc5f-a029-40d8-8635-257b815f3442.jpg?v=1728519037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            13.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enrollado delizia de pavita x 1.30 Kg: Filete de carne de pavo sin piel y sin grasa condimentado y macerado enrollado manualmente con un relleno a base de guindón y tocino ahumado. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El enrollado delizia de pavita x 1.30 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El enrollado delizia de pavita x 1.30 kg es conocido por su sabor inigualable y su textu...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431523095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.07</s:price>
+      <s:sku>129008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431490327</id>
+    <published>2024-10-09T20:02:51-04:00</published>
+    <updated>2024-10-09T20:02:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/enrollado-delizia-de-cerdo-x-1-30-kg"/>
+    <title>Enrollado delizia de cerdo x 1.30 Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/enrollado-deliz-cerdo-1.3kg.png?v=1728519056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enrollado delizia de cerdo x 1.30 Kg: Enrollado delizia de cerdo relleno de tocino y guindón congelado x 1.30 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El enrollado delizia de cerdo x 1.30 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El enrollado delizia de cerdo x 1.30 kg es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar c...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431490327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.27</s:price>
+      <s:sku>129003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431457559</id>
+    <published>2024-10-09T20:02:50-04:00</published>
+    <updated>2024-10-09T20:02:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/enrollado-delizia-de-pollo-x-1-30-kg"/>
+    <title>Enrollado delizia de pollo x 1.30 Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/enrollado-deliz-pollo-1.3kg.jpg?v=1728519075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            11.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enrollado delizia de pollo x 1.30 Kg: Filete de pollo con piel condimentado y macerado relleno de guindón y tocino ahumado.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El enrollado delizia de pollo x 1.30 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El enrollado delizia de pollo x 1.30 kg es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431457559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>129002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431392023</id>
+    <published>2024-10-09T20:02:49-04:00</published>
+    <updated>2024-10-09T20:02:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/enrollado-americano-de-pavita-x-1-30-kg"/>
+    <title>Enrollado americano de pavita x 1.30 Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/enrollado-amer-pavita-1.3kg.jpg?v=1728518929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enrollado americano de pavita x 1.30 Kg: Filetes de carne de pavo sin piel y grasa condimentados y macerados; rellenos de queso jamón de pavo y tocino ahumado.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El enrollado americano de pavita x 1.30 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El enrollado americano de pavita x 1.30 kg es conocido por su sabor inigualable y su textura suave, lo que...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431392023</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>129001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431326487</id>
+    <published>2024-10-09T20:02:48-04:00</published>
+    <updated>2024-10-09T20:02:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/enrollado-americano-de-pollo-x-1-30-kg"/>
+    <title>Enrollado americano de pollo x 1.30 Kg</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/enrollado-amer-pollo-1.3kg.jpg?v=1728518995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enrollado americano de pollo x 1.30 Kg: Filete de pollo con piel condimentado y macerado relleno de guindón y tocino ahumado.. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El enrollado americano de pollo x 1.30 kg se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El enrollado americano de pollo x 1.30 kg es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opció...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431326487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>129000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431260951</id>
+    <published>2024-10-09T20:02:47-04:00</published>
+    <updated>2024-10-09T20:02:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pavo-con-menudencia-congelado-rango-de-9-a-10-kg"/>
+    <title>Pavo con menudencia congelado (Rango de 9 a 10 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PavoEntero_d80e6c6a-f8a4-4407-8101-5a6687859cbc.jpg?v=1729273407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pavo con menudencia congelado (Rango de 9 a 10 Kg): Rango de 9 a 10 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pavo con menudencia congelado (rango de 9 a 10 kg) se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única.El pavo con menudencia congelado (rango de 9 a 10 kg) es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorab...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431260951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.28</s:price>
+      <s:sku>127569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431195415</id>
+    <published>2024-10-09T20:02:47-04:00</published>
+    <updated>2024-10-09T20:02:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pavo-con-menudencia-congelado-rango-de-8-a-9-kg"/>
+    <title>Pavo con menudencia congelado (Rango de 8 a 9 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PavoEntero.jpg?v=1729273310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            35.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pavo con menudencia congelado (Rango de 8 a 9 Kg): Rango de 8 a 9 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pavo con menudencia congelado (rango de 8 a 9 kg) se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única. El pavo con menudencia congelado (rango de 8 a 9 kg) es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorables....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431195415</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.15</s:price>
+      <s:sku>127568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9702431162647</id>
+    <published>2024-10-09T20:02:46-04:00</published>
+    <updated>2024-10-09T20:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pavo-con-menudencia-congelado-rango-de-7-a-8-kg"/>
+    <title>Pavo con menudencia congelado (Rango de 7 a 8 Kg)</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando Perú | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/Pavo-menudencia-congelado.jpg?v=1728519157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando Perú | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            31.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pavo con menudencia congelado (Rango de 7 a 8 Kg): Rango de 7 a 8 Kg. Este producto es ideal para quienes buscan la mejor calidad en cortes de carne. El pavo con menudencia congelado (rango de 7 a 8 kg) se presenta en un formato conveniente para facilitar su preparación y ofrecer una experiencia culinaria única. El pavo con menudencia congelado (rango de 7 a 8 kg) es conocido por su sabor inigualable y su textura suave, lo que lo convierte en una excelente opción para preparar comidas memorables....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9702431162647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.01</s:price>
+      <s:sku>127567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

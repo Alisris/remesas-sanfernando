@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://remesas.sanfernando.pe/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://remesas.sanfernando.pe/collections/packs.atom"/>
+  <title>San Fernando PE | Remesas</title>
+  <updated>2024-10-18T12:53:47-04:00</updated>
+  <author>
+    <name>San Fernando PE | Remesas</name>
+  </author>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9712939565335</id>
+    <published>2024-10-18T12:53:47-04:00</published>
+    <updated>2024-10-18T12:53:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-4"/>
+    <title>Pack Año Nuevo</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKFESTEJO-1080X1080PX-sinnombre.png?v=1729270654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            41.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Envía el sabor de las fiestas a tu familia en Perú con el Pack Festejo de San Fernando. Sorpréndelos este Año Nuevo con una deliciosa selección de productos, como nuestros chorizos parrilleros y enrollados. ¡El regalo perfecto para que disfruten una celebración inolvidable!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9712939565335</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.57</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9712904732951</id>
+    <published>2024-10-18T11:52:06-04:00</published>
+    <updated>2024-10-18T11:52:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-3"/>
+    <title>Pack Familia</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKUNION-1080X1080PX-sinnombre.png?v=1729270622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            105.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Envía el regalo perfecto para una Navidad inolvidable con el Pack Familia de San Fernando. Sorprende a tu familia en Perú con un pavo entero, un enrollado americano y una deliciosa pierna de cerdo. ¡Todo lo que necesitan para disfrutar de una cena navideña llena de sabor y momentos especiales!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9712904732951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.04</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9712903586071</id>
+    <published>2024-10-18T11:49:06-04:00</published>
+    <updated>2024-10-18T11:49:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-2"/>
+    <title>Pack Tradición</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKTRADICION-1080X1080PX-sinnombre.png?v=1729270541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            57.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haz que la Navidad de tu familia en Perú sea especial con el Pack Tradición de San Fernando. Envía un pavo entero acompañado de 2 enrollados para una cena navideña llena de sabor y tradición. ¡El detalle perfecto para compartir en estas fiestas!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9712903586071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.84</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://remesas.sanfernando.pe/products/9711908651287</id>
+    <published>2024-10-17T20:42:07-04:00</published>
+    <updated>2024-10-17T20:42:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://remesas.sanfernando.pe/products/pack-1"/>
+    <title>Pack Unión</title>
+    <s:type></s:type>
+    <s:vendor>San Fernando PE | Remesas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0893/8976/0791/files/PACKFAMILIA-1080X1080PX-SINNOMBRE.png?v=1729270586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>San Fernando PE | Remesas<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            35.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haz que tu familia en Perú disfrute de una Navidad llena de sabor con el Pack Unión de San Fernando. Envía un delicioso enrollado con una panceta y un pollo sazón brasa, perfecto para una celebración especial. ¡Sorpréndelos con una cena que une corazones!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://remesas.sanfernando.pe/products/9711908651287</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
